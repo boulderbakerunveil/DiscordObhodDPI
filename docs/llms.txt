@@ -1,0 +1,10 @@
+# DiscordObhodDPI
+
+DiscordObhodDPI чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+
+DiscordObhodDPI чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/boulderbakerunveil/DiscordObhodDPI/releases/latest
+Код: https://github.com/boulderbakerunveil/DiscordObhodDPI
+Основа: https://github.com/bol-van/zapret
+Страница: https://boulderbakerunveil.github.io/DiscordObhodDPI/
